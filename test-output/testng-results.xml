@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43099" started-at="2022-04-14T00:27:18 IST" finished-at="2022-04-14T00:28:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43099" started-at="2022-04-14T00:27:18 IST" finished-at="2022-04-14T00:28:02 IST">
+      <class name="com.salesforce.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.salesforce.LoginTest@52feb982]" name="loginTest" duration-ms="43060" started-at="2022-04-14T00:27:18 IST" finished-at="2022-04-14T00:28:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.salesforce.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
